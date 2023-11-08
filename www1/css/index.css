@@ -1,0 +1,52 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 45px;
+    font-family: 'Teko', sans-serif;
+}
+.container__nav
+{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+width: 444px;
+margin-left: 53px;
+}
+.container__but{
+    display:flex;
+    margin-left: 117px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 577px;
+}
+body{
+    margin:0 auto;
+    width: 1240px;
+}
+.discover_all{
+}
+
+.discover{
+    margin: 0 auto;
+    color: #676767;
+    font-family: 'Teko', sans-serif;
+}
+.b20{
+    font-family: 'Teko', sans-serif;
+    color: black;
+}
+.herobuton{
+    margin-top: 45px;
+    width: 179px;
+    height: 60px;
+}
+.tornado{
+margin-left: 437px; 
+width: 391px;
+height: 394.587px;
+}
+.dinc{	
+word-spacing: 0px;
+}
